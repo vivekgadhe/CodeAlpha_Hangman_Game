@@ -1,0 +1,13 @@
+# Hangman Game 🎮
+
+A simple text-based Hangman game in Python.
+
+## Features
+- Predefined list of 5 words
+- 6 incorrect guesses allowed
+- Console-based input/output
+- Uses `random`, `while loop`, `if-else`, strings, and lists
+
+## How to Run
+```bash
+python main.py

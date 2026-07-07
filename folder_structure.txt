@@ -1,0 +1,9 @@
+HangmanGame/
+│
+├── main.py              # Entry point of the game
+├── words.py             # Predefined word list
+├── utils.py             # Helper functions
+├── README.md            # Project description and usage
+├── requirements.txt     # Dependencies (empty for now)
+└── folder_structure.txt # This file (documents the structure)
+
